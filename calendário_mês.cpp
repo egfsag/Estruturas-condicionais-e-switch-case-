@@ -41,4 +41,19 @@
         
         case 10 :
             cout << "outubro";
+        break;  case 11 :
+            cout << "novembro";
         break;   
+        
+        case 12 :
+            cout << "dezembro";
+        break;   
+        
+        default : cout << "mes inexistente";
+    }
+
+    return 0;
+}
+
+
+

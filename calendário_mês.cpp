@@ -1,4 +1,8 @@
-     
+
+#include <iostream>
+  using namespace std;
+int main()
+{     
     cout << "Digite um numero de 1 ao 12: ";
     cin >> numero;
     
